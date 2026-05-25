@@ -6,7 +6,8 @@ Engineering mode has a HOST/OTG toggle but that doesn't enable adbd.
 
 
 __I've been finding ADB is far more likely to conenct if the computer is connected to the USB-C port when the car starts__
-If you've already connected, hold the home button on the car till the headunit reboots and it should work.
+
+If the car is already running, connect the computer to the USB-C port, then hold the home button on the car till the headunit reboots (approx 10 seconds, you'll see a harmless autohold fault on the dash) and it should work once the restart is complete.
 
 The USB-C port to the right side of the 12v power socket is the OTG port. 
 The USB A port will be switch to OTG mode as well, but this hasn't been tested. 
